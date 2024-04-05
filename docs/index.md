@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: alt
       text: connpass
-      link: https://battle-saga-jp.connpass.com/
+      link: https://battle-saga.connpass.com/
   image:
     src: /battle-saga-logo.png
     alt: Battle Saga Logo
